@@ -1,1 +1,2 @@
 git init: initialize get in a directory
+gii add -A to the local repo
